@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Luís Carlos Barros 😄🖥️
 
-[![Blog](https://img.shields.io/website?label=luiscarlosbarros.dev.br&style=for-the-badge&url=https://luiscarlosbarros.dev.br)](https://luiscarlosbarros.dev.br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-carlos-aquino-barros-41150117b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscarlosbarros7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscarlosaquino14@gmail.com)
