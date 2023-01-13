@@ -7,8 +7,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
-
 
 ## Tecnologias que uso no meu dia
 
@@ -27,7 +25,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiscarlos14&layout=compact)](https://github.com/luiscarlos14)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luiscarlos14&layout=compact)](https://github.com/luiscarlos14)
 
 
 ### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." 
