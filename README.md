@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscarlosaquino14@gmail.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
 
