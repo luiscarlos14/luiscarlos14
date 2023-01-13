@@ -4,9 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiscarlosbarros7/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscarlosaquino14@gmail.com)
 
+<div style = "display: flex, justify-content:center>
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula)
-
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luiscarlos14&layout=compact)](https://github.com/luiscarlos14)
+              </div>
 
 ## Tecnologias que uso no meu dia
 
@@ -25,7 +27,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luiscarlos14&layout=compact)](https://github.com/luiscarlos14)
+
+
+ ![Snake animation](https://github.com/luiscarlos14/luiscarlos14/blob/output/github-contribution-grid-snake.svg)
 
 
 ### "Ser desenvolvedor é uma viagem onde a próxima parada é a solução de um problema." 
