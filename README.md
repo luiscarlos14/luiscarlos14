@@ -7,6 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiscarlos14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=cc0000&text_color=ffffff&bg_color=000000&icon_color=990000"/>
+
+
 ## Tecnologias que uso no meu dia
 
 <div style = "display: inline_block, margin-botton: 5px"><br/>
