@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:3fb950&height=220&section=header&text=Luis%20Carlos%20Barros&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20Node.js%20%26%20TypeScript&descAlignY=60&descColor=a5d6ff&animation=fadeIn)
+# Luís Carlos Barros
+ 
+### Backend Developer · Node.js · TypeScript
 
 <br/>
 
@@ -110,7 +112,7 @@ src/
 
 **Tem um projeto? Bora conversar.**
 
-[![Falar no LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-carlos-aquino-barros-41150117b/)
+[![Falar no LinkedIn](https://img.shields.io/badge/Falar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlos14/)
 
 <br/>
 
