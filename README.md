@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:3fb950&height=220&section=header&text=Lu%C3%ADs%20Carlos%20Barros&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20%C2%B7%20Node.js%20%26%20TypeScript&descAlignY=60&descColor=a5d6ff&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:3fb950&height=220&section=header&text=Luis%20Carlos%20Barros&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20Node.js%20%26%20TypeScript&descAlignY=60&descColor=a5d6ff&animation=fadeIn)
 
 <br/>
 
